@@ -2,23 +2,16 @@
 Comparing disease staging across the models developed by partners in the EuroPOND consortium
 
 ## EuroPOND models
-| Model | Team | Person(s) |
-|:----- |:----:|:---------:|
-| EBM   | UCL  | Neil, et al. |
+See [this EuroPOND repository](https://github.com/EuroPOND/pond-analysis)
 
-- dEBM (Vikram)
-- SuStaIn (Alex, UCL)
-- DEM (Neil)
-- Gaussian Process regression (Marco => Inria Sophia)
-- Network model 1: dynamics on networks (Igor)
-- Network model 2: dynamics of networks (Sara/Neil)
-- Spatiotemporal 1: longitudinal shape (Alexandre: Deformetrica)
-- Spatiotemporal 2: Bayesian ME (Igor: LeasPy)
-- Spatiotemporal 3: Vertex clustering trajectories (Raz, UCL)
-- Linear ME models (Eline)
-- Off-the-shelf machine learning: classifiers
-  - Need volunteer(s) to do this
+Additional models of interest:
+- Ageing trajectories:
+  - Leon's [Multi-Task Learning](https://github.com/LeonAksman/bayes-mtl-traj) trajectory model
+  - Eline's mixed (efects) models
+- Off-the-shelf machine learning classifiers:
+  - SVM, MKL, etc.
   - Point: for comparison with AUC for clinical classification
+  - Need a volunteer to run this analysis
 
 ## Discussion in Paris
 - Stratified CV sets. Defined by one person, then shared.
