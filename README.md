@@ -7,7 +7,7 @@ See [this EuroPOND repository](https://github.com/EuroPOND/pond-analysis)
 Additional models of interest:
 - Ageing trajectories:
   - Leon's [Multi-Task Learning](https://github.com/LeonAksman/bayes-mtl-traj) trajectory model
-  - Eline's mixed (efects) models
+  - Eline's mixed (effects) models
 - Off-the-shelf machine learning classifiers:
   - SVM, MKL, etc.
   - Point: for comparison with AUC for clinical classification
